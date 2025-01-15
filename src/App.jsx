@@ -25,7 +25,7 @@ function App() {
     <>
   
 
-<Lottery  n={2} winningCond={winningCond} />
+<Lottery  n={4} winningCond={winningCond} />
 </>
     
     
